@@ -1,2 +1,1 @@
-#Display the output
 Print("This is simple code.")
